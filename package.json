@@ -1,0 +1,25 @@
+{
+  "name": "javascripttrain",
+  "version": "1.0.0",
+  "description": "This repository is to train some javascript skills !",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilsonmarcos/javascriptTrain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/danilsonmarcos/javascriptTrain/issues"
+  },
+  "homepage": "https://github.com/danilsonmarcos/javascriptTrain#readme",
+  "devDependencies": {
+    "chai": "^6.2.1",
+    "mocha": "^11.7.5"
+  }
+}
